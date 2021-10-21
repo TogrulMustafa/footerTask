@@ -34,7 +34,7 @@
     -o-transition: all .4s ease;
 }
 .i-flex:hover {
-    background-color: crimson;
+    background-color: #428ae3;
 }
 .i-block {
     display: inline-block;
@@ -95,6 +95,7 @@
     -moz-transform:translateX(35px);
     -ms-transform:translateX(35px);
     -o-transform:translateX(35px);
+    color:aqua;
 }
 /* .moveContent-Y {
     transition: all .4s ease-in-out;
